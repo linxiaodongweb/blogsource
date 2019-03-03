@@ -15,7 +15,7 @@ comment: true
   <!-- more -->    
 
 ##### UML 类图
-<img src="https://linxiaodongweb.github.io/images/uml-singleobject.jpeg" width = "400" height = "490"/>
+<img src="/images/uml-singleobject.jpeg" width = "400" height = "490"/>
 
 #示例
 - 登录框
