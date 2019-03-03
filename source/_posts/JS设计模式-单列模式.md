@@ -10,9 +10,9 @@ comment: true
 ##### 什么是单例设计模式
 - 系统中被唯一使用
 - 一个类中只有一个实例
-- 属于三大设计类型中的创建型模式
+- 属于三大设计类型中的创建型模式  
 
-<!--more-->
+  <!-- more -->    
 
 ##### UML 类图
 <img src="https://linxiaodongweb.github.io/images/uml-singleobject.jpeg" width = "400" height = "490"/>
