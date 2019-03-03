@@ -6,22 +6,26 @@ tags:
 comment: true
 ---
 #单例模式介绍
+
 ##### 什么是单例设计模式
 - 系统中被唯一使用
 - 一个类中只有一个实例
 - 属于三大设计类型中的创建型模式
 <!-- more -->
+
 ##### UML 类图
 <img src="https://linxiaodongweb.github.io/images/uml-singleobject.jpeg" width = "400" height = "490"/>
+
 #示例
 - 登录框
 - 购物车
+
 ##### 说明
 - 单例模式需要用到Java的特性 (private)
 - ES6中没有（ typeScript除外）
 - 只能用Java代码来演示 UML 图中的内容 （不要担心，JS中也会变相的实现单例模式）
 Java代码演示 (Java代码是最容易理解的编程语言之一）
-```
+```javascript
 public class SingleObject {
      // 注意，私有化构造函数，外部不能 new,  只能内部 new！！！！
      private SingleObejct(){
@@ -42,7 +46,7 @@ public class SingleObject {
      }
 }
 ```
-```
+```javascript
 public class  SingletonPatternDemo {
       public static void main(String[] args) {
             // 不合适的构造函数
@@ -55,8 +59,9 @@ public class  SingletonPatternDemo {
       }
 }
 ```
+
 ##### JS中使用单例模式
-```
+```javascript
 class SingleObject {
   login() {
     console.log("login..."):
@@ -90,7 +95,7 @@ Jquery 只有一个$
 其他
 
 Jquery $ Demo 代码可能不一样，但是思路是一样的。
-```
+```javascript
 if (window.Jquery !== null ){
   return window.Jquery;
 }else{
@@ -98,7 +103,7 @@ if (window.Jquery !== null ){
 }
 ```
 模拟登录框
-```
+```javascript
 class LoginForm {
     constructor() {
         this.state = 'hide'
@@ -146,6 +151,7 @@ console.log('login1 === login2', login1 === login2)
 其他
 购物车（和登录框类似）
 vuex 和 redux 中的 store
+
 # 设计原则验证 （五大设计原则SOLID）
 - 符合单一职责原则，只实例化唯一的对象。
 - 没法具体体验开放封闭原则，但是绝对不违反开放封闭原则。
