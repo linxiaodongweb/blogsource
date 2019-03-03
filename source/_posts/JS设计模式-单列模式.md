@@ -1,7 +1,9 @@
 ---
 title: JS设计模式-单列模式
 date: 2019-03-02 09:44:02
-tags: ["JavaScript"]
+tags: 
+  - JavaScript
+comment: true
 ---
 #单例模式介绍
 ##### 什么是单例设计模式
