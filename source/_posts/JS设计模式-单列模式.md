@@ -5,7 +5,7 @@ tags:
   - JavaScript
 comment: true
 ---
-#单例模式介绍
+# 单例模式介绍
 
 ##### 什么是单例设计模式
 - 系统中被唯一使用
@@ -17,7 +17,7 @@ comment: true
 ##### UML 类图
 <img src="/images/uml-singleobject.jpeg" width = "400" height = "490"/>
 
-#示例
+# 示例
 - 登录框
 - 购物车
 
