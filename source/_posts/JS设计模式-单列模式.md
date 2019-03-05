@@ -17,7 +17,7 @@ comment: true
 ##### UML 类图
 <img src="/images/uml-singleobject.jpeg" width = "400" height = "490"/>
 
-# 示例
+##### 示例
 - 登录框
 - 购物车
 
@@ -153,7 +153,7 @@ console.log('login1 === login2', login1 === login2)
 购物车（和登录框类似）
 vuex 和 redux 中的 store
 
-# 设计原则验证 （五大设计原则SOLID）
+##### 设计原则验证 （五大设计原则SOLID）
 - 符合单一职责原则，只实例化唯一的对象。
 - 没法具体体验开放封闭原则，但是绝对不违反开放封闭原则。
 
