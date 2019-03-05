@@ -21,12 +21,12 @@ comment: true
 - 商店要 ”封装" 做汉堡的工作，做好直接给买者。
 
 
-##### 工厂模式UML类图如下
+工厂模式UML类图如下
 ![工厂模式UML类图](/images/uml-factory.jpeg)
 其中Creator是一个工厂，Product 是一个产品。
 一个Creator工厂有一个create方法，返回一个产品，可以理解为最简单的工厂模式。
 
-##### 代码演示
+代码演示
 ```javascript
 class Product {
     constructor(name) {

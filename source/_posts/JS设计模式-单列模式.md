@@ -21,7 +21,7 @@ comment: true
 - 登录框
 - 购物车
 
-##### 说明
+ 说明
 - 单例模式需要用到Java的特性 (private)
 - ES6中没有（ typeScript除外）
 - 只能用Java代码来演示 UML 图中的内容 （不要担心，JS中也会变相的实现单例模式）
