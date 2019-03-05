@@ -3,9 +3,9 @@ title: JS设计模式-单列模式
 date: 2019-03-02 09:44:02
 tags: 
   - JavaScript
+
 comment: true
 ---
-# 单例模式介绍
 
 ##### 什么是单例设计模式
 - 系统中被唯一使用
@@ -90,7 +90,7 @@ let obj3 = new SingleObejct();
 console.log(obj1 === obj3);  // false 这里就不是单例模式了。
 ```
 
-# 场景
+##### 场景
 Jquery 只有一个$
 模拟登录框
 其他

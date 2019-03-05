@@ -5,7 +5,6 @@ tags:
   - JavaScript
 comment: true
 ---
-# 工厂模式介绍
 
 ##### 什么是工厂模式
 工厂模式是我们最常用的实例化对象模式了，是用工厂方法代替new操作的一种模式。著名的Jive论坛 ,就大量使用了工厂模式，工厂模式在Java程序系统可以说是随处可见。因为工厂模式就相当于创建实例对象的new，我们经常要根据类Class生成实例对象，如A a=new A() 工厂模式也是用来创建实例对象的，所以以后new时就要多个心眼，是否可以考虑使用工厂模式，虽然这样做，可能多做一些工作，但会给你系统带来更大的可扩展性和尽量少的修改量。
@@ -27,7 +26,7 @@ comment: true
 其中Creator是一个工厂，Product 是一个产品。
 一个Creator工厂有一个create方法，返回一个产品，可以理解为最简单的工厂模式。
 
-# 代码演示
+##### 代码演示
 ```javascript
 class Product {
     constructor(name) {
@@ -61,7 +60,7 @@ p.fn1();
 ```
 *结论： 我们通过Creator类提供的create方法来创建Product， 通过Creator工厂已经把真正的构造函数封装起来了，我们用的时候只需要知道Creator工厂的create方法可以产生一个实例，而不用去关心生成的实例是谁。*
 
-# 常见场景
+##### 常见场景
 - Jquery - $("div")
 - React.createElement
 - Vue 异步组件
