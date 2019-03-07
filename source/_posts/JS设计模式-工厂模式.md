@@ -23,7 +23,7 @@ comment: true
 
 
 工厂模式UML类图如下
-![工厂模式UML类图](/images/uml-factory.jpeg)
+![工厂模式UML类图](https://upload-images.jianshu.io/upload_images/8878633-5dd870bc733935d7.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 其中Creator是一个工厂，Product 是一个产品。
 一个Creator工厂有一个create方法，返回一个产品，可以理解为最简单的工厂模式。
 

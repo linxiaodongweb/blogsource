@@ -11,7 +11,7 @@ tags:
 比如你去香港或者出国去一些国家，他们的插排接口和我们都不一样，我要充电不能直接用，这个时候就需要一个适配器来转换一下电压。
 <!--more-->
 ##### UML类图
-<img src="/images/uml-adaptee.jpeg" width = "630" height = "330"/>
+![适配器模式UML类图](https://upload-images.jianshu.io/upload_images/8878633-2480fb0fe4949947.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ##### 代码演示
 ```javascript
 class Adaptee {

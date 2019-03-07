@@ -16,7 +16,7 @@ comment: true
   <!-- more -->    
 
 ##### UML 类图
-<img src="/images/uml-singleobject.jpeg" width = "400" height = "490"/>
+<img src="https://upload-images.jianshu.io/upload_images/8878633-9b942598a6e181b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width = "400" height = "490"/>
 
 ##### 示例
 - 登录框
