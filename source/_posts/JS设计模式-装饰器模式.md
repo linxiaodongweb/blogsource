@@ -201,6 +201,7 @@ person.facepalmHarder();
 ##### 设计原则验证
 - 将现有对象和装饰器进行分离，两者独立存在
 - 符合开放封闭原则
+
 ##### 对装饰器更多学习，可以看 [阮一峰es6装饰器教程](http://es6.ruanyifeng.com/#docs/decorator)
 
 > 本文资料来自慕课网-双越老师-Javascript 设计模式系统讲解与应用视频课程
