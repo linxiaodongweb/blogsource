@@ -1,5 +1,5 @@
 ---
-title: JS设计模式-其他4-
+title: JS设计模式-其他4-命令模式 & 备忘录模式
 date: 2019-03-25 09:52:52
 tags:
   - JavaScript

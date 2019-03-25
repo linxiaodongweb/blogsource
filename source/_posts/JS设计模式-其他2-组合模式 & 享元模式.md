@@ -1,6 +1,5 @@
-
 ---
-title: JS设计模式-其他2-组合模式
+title: JS设计模式-其他2-组合模式 & 享元模式
 date: 2019-03-25 09:49:35
 tags:
   - JavaScript
