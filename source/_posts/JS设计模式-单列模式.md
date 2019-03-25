@@ -2,7 +2,7 @@
 title: JS设计模式-单列模式
 date: 2019-03-02 09:44:02
 tags: 
-  - JavaScript
+  
   - 前端
   - 设计模式
 comment: true

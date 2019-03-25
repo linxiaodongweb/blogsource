@@ -2,7 +2,7 @@
 title: JS设计模式-状态模式
 date: 2019-03-17 21:54:59
 tags:
-  - JavaScript
+  
   - 前端
   - 设计模式
 ---

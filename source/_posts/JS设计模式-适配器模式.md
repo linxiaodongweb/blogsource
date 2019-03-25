@@ -2,7 +2,6 @@
 title: JS设计模式-适配器模式
 date: 2019-03-05 22:44:43
 tags:
-  - JavaScript
   - 前端
   - 设计模式
 ---
