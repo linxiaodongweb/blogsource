@@ -4,6 +4,8 @@ date: 2019-03-12 22:56:10
 tags:
   - JavaScript
   - 设计模式
+  - 前端
+
 ---
 ##### 什么是外观模式
 > 本段内容来自于 [JAdam博客](https://www.cnblogs.com/adamjwh/p/9048594.html)

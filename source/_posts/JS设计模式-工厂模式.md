@@ -3,6 +3,7 @@ title: JS设计模式-工厂模式
 date: 2019-03-02 10:36:44
 tags: 
   - JavaScript
+  - 前端
   - 设计模式
 comment: true
 ---

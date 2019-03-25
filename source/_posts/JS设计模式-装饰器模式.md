@@ -3,6 +3,7 @@ title: JS设计模式-装饰器模式
 date: 2019-03-07 23:23:21
 tags: 
   - JavaScript
+  - 前端
   - 设计模式
 comment: true
 ---
